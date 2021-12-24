@@ -1,0 +1,17 @@
+.content-item{
+  font-size: 20px;
+}
+
+.content-date{
+  font-size:15px;
+  color:#888888;
+  margin-top: 5px;
+}
+
+.content-info{
+  margin: 20px 0;
+  background-color: #cccccc;
+  padding: 50px;
+  text-align: center;
+
+}
